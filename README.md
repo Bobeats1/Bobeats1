@@ -1,6 +1,5 @@
 ## Olá, me chamo Gabriel! 👋
 
-![Snake animation](https://github.com/Bobeats1/Bobeats1/blob/output/github-contribution-grid-snake.svg)
 
 
 
