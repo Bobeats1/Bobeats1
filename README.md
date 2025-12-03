@@ -1,9 +1,20 @@
 ## Olá, me chamo Gabriel! 👋
 
+##
 ![Snake animation](https://github.com/Bobeats1/Bobeats1/blob/output/github-contribution-grid-snake.svg)
+##
 
+### Tecnologias e Ferramentas
 
+<div style="display: inline_block"><br>
+    <img align="center" alt="Dan2a-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dan2a-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dan2a-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dan2a-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Dan2a-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  
 
+##
 
 
   ## Contatos:
