@@ -2,19 +2,6 @@
 
 
 
-##
-
-<div style="display: flex; gap: 10px;">
-  <a href="https://github.com/Bobeats1">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bobeats1&show_icons=true&theme=dark" style="width: 49%;" />
-  </a>
-  <a href="https://github.com/Bobeats1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobeats1&layout=compact&langs_count=7&theme=dark" style="width: 37%;" />
-  </a>
-</div>
-
-##
-
   ## Contatos:
 <div>
 <a href="https://instagram.com/djbob_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
