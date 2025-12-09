@@ -1,5 +1,9 @@
 ## Olá, me chamo Gabriel! 👋
 
+<p align="center">
+  <img src="https://tenor.com/pt-BR/view/laptop-gif-26065252" width="350">
+</p>
+
 
 ![Snake animation](https://github.com/Bobeats1/Bobeats1/blob/output/github-contribution-grid-snake.svg)
 
